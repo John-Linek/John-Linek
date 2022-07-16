@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, Me chamo John Linek Batalha! Sou fascinado por tecnologia... Atualmente estou cursando Engenharia de Software. 👋
 
-<!--
-**John-Linek/John-Linek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div>
+  <a href='https://github.com/John-Linek/github-readme-stats'>
+    <img src='https://github-readme-stats.vercel.app/api?username=John-Linek&count_private=true&show_icons=true&theme=github_dark' width="54%">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=John-Linek&theme=github_dark&layout=compact' width="45%">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+  <a href="https://api.whatsapp.com/send?phone=5522981251422&text=Ol%C3%A1%20Dev!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%a4c639?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/JLB#7381" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://criarmeulink.com.br/u/1657995437" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/john-linek-batalha-27243b16b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
