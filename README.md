@@ -1,4 +1,4 @@
-### Olá, Me chamo John Linek Batalha!Eterno aprendiz, otimista nato, provoco o desempate, faço por merecer. Sou fascinado por tecnologia... Atualmente estou cursando Engenharia de Software. 👋
+### Olá, Me chamo John Linek Batalha! Eterno aprendiz, otimista nato, provoco o desempate, faço por merecer. Sou fascinado por tecnologia... Atualmente estou cursando Engenharia de Software. 👋
 
 ##
 
